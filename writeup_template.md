@@ -32,7 +32,9 @@ The goals / steps of this project are the following:
 
 ####1. Provide a Writeup / README that includes all the rubric points and how you addressed each one.  You can submit your writeup as markdown or pdf.  [Here](https://github.com/udacity/CarND-Vehicle-Detection/blob/master/writeup_template.md) is a template writeup for this project you can use as a guide and a starting point.  
 
-You're reading it!
+To 
+
+After going over the project lecture videos, I decided to use a Linear SVM to train my classifier as a starting point as the lecturer, Arpan, recommended using this machine learning tool. 
 
 ###Histogram of Oriented Gradients (HOG)
 
